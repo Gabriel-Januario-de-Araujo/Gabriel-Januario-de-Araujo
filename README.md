@@ -63,19 +63,8 @@
 
 <br/>
 
-## 📊 Estatísticas do GitHub:
+## ✅ Contact me:
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=robertifpb&theme=cobalt&show_icons=true&hide_border=false&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertifpb&theme=cobalt&show_icons=true&hide_border=false&layout=compact" />
-</a>
-<br/><br/>
-<a href="https://github-readme-stats.vercel.app/api?username=robertifpb&theme=cobalt&show_icons=true&hide_border=false&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=robertifpb&theme=cobalt&show_icons=true&hide_border=false&count_private=true" />
-</a>
-
-## ✅ Conecte-se comigo:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8ECAE6?style=for-the-badge&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/alexdevoloper/)
-[![Gmail](https://img.shields.io/badge/Gmail-8ECAE6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.braz@academico.ifpb.edu.br)
+[![Gmail](https://img.shields.io/badge/Gmail-8ECAE6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.januario@academico.ifpb.edu.br)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&section=footer&fontColor=fff&animation&fontSize=30&animation=twinkling&fontAlign=35"/>
