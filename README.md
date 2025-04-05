@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=FFFFFF&width=435&lines=Be+Welcome!+%3DD;Hello%2C+my+name+is+Gabriel+Januario;I'm+19+years+old;I'm+naturally+Brazilian%2C+PB;Developer+in+training)](https://git.io/typing-svg)
 
-### ⚔️ Languages and Technologys:
+### ⚔️ Languages and Technologies:
 
 <img 
     align="left" 
