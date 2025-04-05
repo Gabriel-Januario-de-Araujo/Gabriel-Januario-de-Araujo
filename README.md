@@ -41,7 +41,7 @@
 />
 <br/>
 
-### 💻 Habilidades que estou aprimorando:
+### 💻 Skills I am improving:
 
 <img 
     align="left" 
@@ -61,14 +61,6 @@
     src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp" 
 />
 
-<img 
-    align="left" 
-    alt="FIGMA"
-    title="FIGMA"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-1024.png" 
-/>
 <br/>
 
 ## 📊 Estatísticas do GitHub:
